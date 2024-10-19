@@ -22,9 +22,3 @@ bower_components/
 # Build output directories
 dist/
 build/
-
-# Mac OS specific files
-.DS_Store
-
-# Windows specific files
-Thumbs.db
